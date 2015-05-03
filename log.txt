@@ -1,0 +1,9 @@
+Start: Sat, 2 May 2015 12:10:35 -0700
+End: Sat, 2 May 2015 16:40:33 -0700
+Tasks: initial commit
+Start: Sun, 3 May 2015 07:36:29 -0700
+End: Sun, 3 May 2015 12:36:11 -0700
+Tasks: redirects to login if no post
+Start: Sun, 3 May 2015 12:50:57 -0700
+End: Sun, 3 May 2015 14:23:57 -0700
+Tasks: logout working
