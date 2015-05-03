@@ -11,7 +11,7 @@
 					$post_array[$key] = $field;
 				}
 			}
-			if (!empty(post_array)) {
+			if (!empty($post_array)) {
 				echo json_encode($post_array);
 			}
 			else {
@@ -24,7 +24,7 @@
 					$get_array[$key] = $field;
 				}
 			}
-			if (!empty(get_array)) {
+			if (!empty($get_array)) {
 				echo json_encode($get_array);
 			}
 			else {
