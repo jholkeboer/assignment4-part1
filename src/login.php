@@ -1,3 +1,10 @@
+<?php
+session_start();
+if (isset($_GET['action']) && $_GET['action'] == 'end') {
+	$_SESSION = array();
+	session_destroy();
+}	
+?>
 <!doctype html>
 <head>
 </head>
